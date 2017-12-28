@@ -3,7 +3,7 @@
 
 Un sencillo algoritmo evolutivo que resuelve el problema de las n reinas
 
-## Requirements
+## Requerimientos
 
 * Ruby 1.9 o superior
 
