@@ -1,9 +1,9 @@
 # n-reinas-evo
-![Logo n-reinas-evo](logo.png) 
 
-[Repositorio oficial](https://gitlab.com/larvasapiens/n-reinas-evo)
+|  |  |
+|::|--|
+| ![Logo n-reinas-evo](logo.png) |[Repositorio oficial](https://gitlab.com/larvasapiens/n-reinas-evo) <br><br> Un sencillo algoritmo evolutivo que resuelve el problema de las n reinas|
 
-Un sencillo algoritmo evolutivo que resuelve el problema de las n reinas
 
 ## Requerimientos
 
